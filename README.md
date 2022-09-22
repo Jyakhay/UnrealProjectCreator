@@ -1,6 +1,5 @@
 # Unreal Project Creator
 #### By Jyakhay
-<br-></br>
 ## Dependencies
 - Newtonsoft.Json
 <br-></br>
