@@ -1,0 +1,5 @@
+﻿@echo off
+
+call vars.bat
+
+start "%UE_EDITOR_EXE%" "%UPROJECT_PATH%"
