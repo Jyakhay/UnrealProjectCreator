@@ -1,7 +1,0 @@
-﻿@echo off
-
-call vars.bat
-
-call "%UE_BUILD%" %PROJECT%Editor Win64 Development "%UPROJECT_PATH%" -waitmutex -NoHotReload
-
-pause
