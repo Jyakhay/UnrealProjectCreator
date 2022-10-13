@@ -75,6 +75,7 @@ internal class Test
 
     private static void Main(string[] args)
     {
+        Console.Title = "Unreal Project Creator";
         CreateProject();
     }
 
